@@ -4,10 +4,10 @@ function Portfolio() {
 
     const projects = [
         {
-            name: 'Quiz Time!',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/quiz.png?raw=true',
-            github: 'https://github.com/andytheelf/It-s-Quiz-Time-',
-            deployed: 'https://github.com/andytheelf/andytheelf-quiz.github.io'
+            name: 'Help Exchange!',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/help.jpg?raw=true',
+            github: 'https://github.com/andytheelf/Help-Exchange/pull/11',
+            deployed: 'https://rocky-retreat-38962.herokuapp.com/'
         },
         {
             name: 'The Informed Artist',
