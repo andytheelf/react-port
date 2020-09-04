@@ -5,7 +5,7 @@ function Portfolio() {
     const projects = [
         {
             name: 'Help Exchange!',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/help.jpg?raw=true',
+            img: 'https://github.com/andytheelf/react-port/blob/master/src/img/help.JPG?raw=true',
             github: 'https://github.com/andytheelf/Help-Exchange/pull/11',
             deployed: 'https://rocky-retreat-38962.herokuapp.com/'
         },
