@@ -22,10 +22,10 @@ This project was created with [Create React App](https://github.com/facebook/cre
 ### This application uses React, SCSS, Node, JS, CSS, HTML. A simple react portfolio!
 
 ### Screenshot of Portfolio #1
-![](Capture.jpg)
+![](/assets/test.JPG)
 
 ### Screenshot of Portfolio #2
-![](Capture2.png)
+![](/assets/test2.JPG)
 
 ## Install
 If you want a working version 
